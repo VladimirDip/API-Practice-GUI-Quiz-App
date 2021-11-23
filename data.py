@@ -15,4 +15,3 @@ req.raise_for_status()
 data = req.json()["results"]
 
 question_data = data
-
